@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🌧️ Hi, I'm Rainy! 🌈<br>📚 Studying Software Development 🖥️<br>🌍 Polyglot 💬<br>💻 Frontend Dev ✨</p>
+<p align="left">🌧️ Hi, I'm Rainy! 🌈<br>📚 Studying Software Analysis and Development 🖥️<br>🌍 Polyglot 💬<br>💻 Frontend Dev ✨</p>
 
 ###
 
